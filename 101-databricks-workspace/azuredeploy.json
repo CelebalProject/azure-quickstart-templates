@@ -10,7 +10,7 @@
     },
     "pricingTier": {
       "type": "string",
-      "defaultValue": "premium",
+      "defaultValue": "trial",
       "allowedValues": [
         "standard",
         "premium"
